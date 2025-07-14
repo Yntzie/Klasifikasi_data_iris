@@ -28,6 +28,14 @@ Install Library
   pip install seaborn
   pip install scikit-learn
 ```
+
+or
+
+Install semua dependensi dengan:
+
+```bash
+  pip install -r requirements.txt
+```
     
 ## Authors
 
